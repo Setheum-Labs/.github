@@ -98,3 +98,31 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 <p align="center">  
 💬 Ask us about Setheum... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
+
+
+## Setheum's Projects, Libraries 'n Protocols (A-Z)
+
+A collection of Setheum's Native Projects and Protocols by Setheum Labs.
+
+* [Calioce](https://github.com/Setheum-Labs/Calioce): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
+* [HS3](https://github.com/Setheum-Labs/HS3): Setheum's Blockchain-DAG L1-L2 Secure Decentralized Scalability Protocol.
+* [LiquidAir](https://github.com/Setheum-Labs/LiquidAir): Setheum''s Super Protocol for One-Stop Liquid Derivatives.
+* [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1-l2 Hybrid blockchain.
+* [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
+* [SIOTEE](https://github.com/Setheum-Labs/SIOTEE): Setheum's IoT protocol for building highly scalable and confidential Enterprise IoT solutions.
+* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Native Decentralized Exxchange inspired by the Uniswap V3 DEX Model.
+* [ZIMS](https://github.com/Setheum-Labs/Zims): Setheum's CDP Stablecoin protocol built for the Zero-Interest stablecoin market.
+
+## Links 'n Websites (A-Z)
+* [Setheum](https://setheum.xyz): Setheum Network Project Website.
+* [SetheumJS](https://setheum.js.org): Setheum.JS Project Website.
+* [Setheum LinkTree](https://linktr.ee/setheum): Setheum's LinkTree to find website links, socials and community Links.
+
+### Other Resources (A-Z)
+
+* [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
+* [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io): Setheum Network Project Website.based runtimes.
+* [Setheum Faucet Bot](https://github.com/Setheum-Labs/setm-faucet-bot): This is a nodejs bot for Substrate based faucets - Setheum.
+* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
+* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
