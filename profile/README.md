@@ -105,14 +105,21 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 
 * [Calioce](https://github.com/Setheum-Labs/Calioce): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
-* [HS3](https://github.com/Setheum-Labs/HS3): Setheum's Blockchain-DAG L1-L2 Secure Decentralized Scalability Protocol.
 * [LiquidAir](https://github.com/Setheum-Labs/LiquidAir): Setheum''s Super Protocol for One-Stop Liquid Derivatives.
-* [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
+* [Shamce](https://github.com/Setheum-Labs/Shamce): Setheum's Blockchain-DAG L1-L2 Hybrid Consensus Protocol.
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1-l2 Hybrid blockchain.
-* [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
-* [SIOTEE](https://github.com/Setheum-Labs/SIOTEE): Setheum's IoT protocol for building highly scalable and confidential Enterprise IoT solutions.
+* [Sial](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
+* [Siotee](https://github.com/Setheum-Labs/Siotee): Setheum's IoT protocol for building highly scalable and confidential Enterprise-level IoT solutions.
 * [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Native Decentralized Exxchange inspired by the Uniswap V3 DEX Model.
 * [ZIMS](https://github.com/Setheum-Labs/Zims): Setheum's CDP Stablecoin protocol built for the Zero-Interest stablecoin market.
+
+## Setheum's Smart Contracts (A-Z)
+
+* [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
+
+## Setheum's Libraries 'n Frameworks (A-Z)
+
+* [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
 
 ## Links 'n Websites (A-Z)
 * [Setheum](https://setheum.xyz): Setheum Network Project Website.
