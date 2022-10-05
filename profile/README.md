@@ -102,7 +102,9 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 
 ## Setheum's Projects, Libraries 'n Protocols (A-Z)
 
-A collection of Setheum's Native Projects and Protocols by Setheum Labs.
+A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
+
+### Protocols 'n Blockchains
 
 * [Calioce](https://github.com/Setheum-Labs/Calioce): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
 * [LiquidAir](https://github.com/Setheum-Labs/LiquidAir): Setheum''s Super Protocol for One-Stop Liquid Derivatives.
@@ -113,11 +115,11 @@ A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 * [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Native Decentralized Exxchange inspired by the Uniswap V3 DEX Model.
 * [ZIMS](https://github.com/Setheum-Labs/Zims): Setheum's CDP Stablecoin protocol built for the Zero-Interest stablecoin market.
 
-## Setheum's Smart Contracts (A-Z)
+### Smart Contracts (A-Z)
 
-* [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
+* [Setheum's Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
 
-## Setheum's Libraries 'n Frameworks (A-Z)
+### Libraries 'n Frameworks (A-Z)
 
 * [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
 
