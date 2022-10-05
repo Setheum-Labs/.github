@@ -1,3 +1,4 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
 <H1 align="right">
 Peaceful Hello!
@@ -100,7 +101,7 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 </p>
 
 
-## Setheum's Projects, Libraries 'n Protocols (A-Z)
+## Setheum's Projects
 
 A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
@@ -124,11 +125,14 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 * [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
 
 ## Links 'n Websites (A-Z)
+
 * [Setheum](https://setheum.xyz): Setheum Network Project Website.
 * [SetheumJS](https://setheum.js.org): Setheum.JS Project Website.
 * [Setheum LinkTree](https://linktr.ee/setheum): Setheum's LinkTree to find website links, socials and community Links.
 
-### Other Resources (A-Z)
+## Other Resources
+
+### Repos (A-Z)
 
 * [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
 * [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io): Setheum Network Project Website.based runtimes.
