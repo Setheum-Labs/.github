@@ -109,7 +109,7 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
 * [Calioce](https://github.com/Setheum-Labs/Calioce): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
 * [LiquidAir](https://github.com/Setheum-Labs/LiquidAir): Setheum''s Super Protocol for One-Stop Liquid Derivatives.
-* [Shamce](https://github.com/Setheum-Labs/Shamce): Setheum's Blockchain-DAG L1-L2 Hybrid Consensus Protocol.
+* [Stance](https://github.com/Setheum-Labs/Stance): Setheum's Blockchain-DAG L1-L2 Consensus Protocol.
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1-l2 Hybrid blockchain.
 * [Sial](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
 * [Siotee](https://github.com/Setheum-Labs/Siotee): Setheum's IoT protocol for building highly scalable and confidential Enterprise-level IoT solutions.
