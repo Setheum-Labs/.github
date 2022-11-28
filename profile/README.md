@@ -107,15 +107,10 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
 ### Protocols 'n Blockchains
 
-* [Calioce](https://github.com/Setheum-Labs/Calioce): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
-* [LiquidAir](https://github.com/Setheum-Labs/LiquidAir): Setheum''s Super Protocol for One-Stop Liquid Derivatives.
-* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1-l2 Hybrid blockchain.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1 blockchain.
 * [Sial](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [Siotee](https://github.com/Setheum-Labs/Siotee): Setheum's IoT protocol for building highly scalable and confidential Enterprise-level IoT solutions.
-* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Native Decentralized Exxchange inspired by the Uniswap V3 DEX Model.
+* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's First Subchain. DeFi on ethical wheels.
 * [Stance](https://github.com/Setheum-Labs/Stance): Setheum's Blockchain-DAG L1-L2 Consensus Protocol.
-* [Stem](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Confidential Computation Layer.
-* [Zims](https://github.com/Setheum-Labs/Zims): Setheum's CDP Stablecoin protocol built for the Zero-Interest stablecoin market.
 
 ### Smart Contracts (A-Z)
 
