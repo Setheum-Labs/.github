@@ -107,10 +107,10 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
 ### Protocols 'n Blockchains
 
+* [Dagestan](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1 blockchain.
 * [Sial](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's First Subchain. DeFi on ethical wheels.
-* [Stance](https://github.com/Setheum-Labs/Stance): Setheum's Blockchain-DAG L1-L2 Consensus Protocol.
+* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Multi-protocol DeFi Platform. DeFi on Ethical Wheels.
 
 ### Smart Contracts (A-Z)
 
