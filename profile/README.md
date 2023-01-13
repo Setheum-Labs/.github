@@ -135,5 +135,5 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 * [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
 * [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io): Setheum Network Project Website.based runtimes.
 * [Setheum Faucet Bot](https://github.com/Setheum-Labs/setm-faucet-bot): This is a nodejs bot for Substrate based faucets - Setheum.
-* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
-* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
+* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects.
+* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum projects.
