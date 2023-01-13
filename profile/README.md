@@ -17,9 +17,9 @@ As-Salam Alaikum!!
 </H1>
 
 # I ❤️ Setheum Labs
-Setheum Labs is actually a department of Labs responsible for Blockchain Research and Development in Slixon Technologies. 
+Setheum Labs is actually a consortium of Labs responsible for Blockchain Research and Development in collaboration with Slixon Technologies and Open Web3 Foundation. 
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly open finance, 
-IoT, NFTs, most especially in the Setheum Ecosystem.
+Web3, Cloud, IoT, NFTs, most especially in the Setheum Ecosystem.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -48,7 +48,6 @@ Check out [Setheum Commons](https://github.com/Setheum-Labs/setheum-commons) for
 and other resources used in Setheum Labs.
 
 ## 🍿 Fun facts
-Setheum Labs is actually a department of Labs not a company. 
 We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/wiki/Lanzhou_beef_noodle_soup).
 
 ## 🧰 Languages and Tools:
