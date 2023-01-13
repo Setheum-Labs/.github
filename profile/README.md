@@ -107,10 +107,12 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
 ### Protocols 'n Blockchains
 
-* [Dagestan](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
+* [DAGESTAN](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1 blockchain.
-* [Sial](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Multi-protocol DeFi Platform. DeFi on Ethical Wheels.
+* [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
+* [Khalifa](https://github.com/Setheum-Labs/Khalifa): Setheum's Layer-2 Multi-protocol DeFi Network. Driving DeFi on Ethical Wheels.
+* [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer.
+* [Cloud Compute](https://github.com/Setheum-Labs/Cloud-Compuute): Setheum's Cloud Computation Layer built on STEM.
 
 ### Smart Contracts (A-Z)
 
