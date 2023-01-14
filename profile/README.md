@@ -17,9 +17,9 @@ As-Salam Alaikum!!
 </H1>
 
 # I ❤️ Setheum Labs
-Setheum Labs is a consortium of Labs responsible for Blockchain Research and Development in collaboration with Slixon Technologies and Open Web3 Foundation. 
+**Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **Slixon Technologies** and **OpenWeb3 Foundation**. 
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly open finance, 
-Web3, Cloud, IoT, NFTs, most especially in the Setheum Ecosystem.
+Web3, Cloud, IoT, NFTs, etc. most especially in the *Setheum Ecosystem*.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -111,7 +111,8 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 * [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
 * [Khalifa](https://github.com/Setheum-Labs/Khalifa): Setheum's Layer-2 Multi-protocol DeFi Network. Driving DeFi on Ethical Wheels.
 * [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer.
-* [Cloud Compute](https://github.com/Setheum-Labs/Cloud-Compuute): Setheum's Cloud Computation Layer built on STEM.
+* [STEM-C2](https://github.com/openweb3Cloud/C2): Setheum's Cloud Computation Service built on STEM.
+* [STEM-S3](https://github.com/openweb3Cloud/S3): Setheum's Cloud Storage Service built on STEM.
 
 ### Smart Contracts (A-Z)
 
