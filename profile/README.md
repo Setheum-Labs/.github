@@ -17,7 +17,7 @@ As-Salam Alaikum!!
 </H1>
 
 # I ❤️ Setheum Labs
-Setheum Labs is actually a consortium of Labs responsible for Blockchain Research and Development in collaboration with Slixon Technologies and Open Web3 Foundation. 
+Setheum Labs is a consortium of Labs responsible for Blockchain Research and Development in collaboration with Slixon Technologies and Open Web3 Foundation. 
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly open finance, 
 Web3, Cloud, IoT, NFTs, most especially in the Setheum Ecosystem.
 
