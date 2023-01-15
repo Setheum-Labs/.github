@@ -18,8 +18,15 @@ As-Salam Alaikum!!
 
 # I ❤️ Setheum Labs
 **Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**. 
-The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly open finance, 
-Web3, Cloud, IoT, NFTs, etc. most especially in the *Setheum Ecosystem*.
+The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
+
+### Organisations in Setheum Labs
+
+* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of protocols. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
+* [OpenWeb3 AI](https://github.com/openweb3AI): Setheum's AI Computation Suite. By **[@openweb3-foundation](https://github.com/openweb3-foundation)**.
+* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Layer-2 Blockchain Network. By **[@openweb3-foundation](https://github.com/openweb3-foundation)**.
+* [OpenWeb3 Foundation](https://github.com/Open-Web3-Foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
+* [Setheum-Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -104,15 +111,20 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 
 A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
-### Protocols 'n Blockchains
+### Core Projects (Consensus Protocols)
 
 * [DAGESTAN](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
-* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1 blockchain.
 * [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [Khalifa](https://github.com/Setheum-Labs/Khalifa): Setheum's Layer-2 Multi-protocol DeFi Network. Driving DeFi on Ethical Wheels.
-* [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer.
-* [STEM-C2](https://github.com/openweb3Cloud/C2): Setheum's Cloud Computation Service built on STEM.
-* [STEM-S3](https://github.com/openweb3Cloud/S3): Setheum's Cloud Storage Service built on STEM.
+* [STEEL](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer, giving birth to Subchains.
+
+### Core Projects (Blockchains)
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
+* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Subchain, a Layer-2 Blockchain Network.
+
+### Core Projects ( Projects on the Setheum Network)
+* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of Protocols.
+* [OpenWeb3 AI](https://github.com/openweb3AI): Setheum's AI Computation Suite.
+* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Layer-2 Blockchain Network.
 
 ### Smart Contracts (A-Z)
 
@@ -127,6 +139,7 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 * [Setheum](https://setheum.xyz): Setheum Network Project Website.
 * [SetheumJS](https://setheum.js.org): Setheum.JS Project Website.
 * [Setheum LinkTree](https://linktr.ee/setheum): Setheum's LinkTree to find website links, socials and community Links.
+* [Wiki](https://wiki.setheum.xyz): Docs for Setheum.
 
 ## Other Resources
 
@@ -136,4 +149,4 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 * [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io): Setheum Network Project Website.based runtimes.
 * [Setheum Faucet Bot](https://github.com/Setheum-Labs/setm-faucet-bot): This is a nodejs bot for Substrate based faucets - Setheum.
 * [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects.
-* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum projects.
+* [Wiki](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum.
