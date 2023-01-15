@@ -19,7 +19,7 @@ As-Salam Alaikum!!
  <!-- omit in toc -->
 
 <p align="center">
-  <img src="./SetheumLabsLabel.jpg" style="width:1300px" />
+  <img src="./../SetheumLabsLabel.jpg" style="width:1300px" />
 </p>
 
 # I ❤️ Setheum Labs
