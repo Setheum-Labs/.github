@@ -27,8 +27,6 @@ The Labs for building and maintaining our blockchain projects and our involvment
 ### Organisations in Setheum Labs
 
 * [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of protocols. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
-* [OpenWeb3 AI](https://github.com/openweb3AI): Setheum's AI Computation Suite. By **[@openweb3-foundation](https://github.com/openweb3-foundation)**.
-* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Layer-2 Blockchain Network. By **[@openweb3-foundation](https://github.com/openweb3-foundation)**.
 * [OpenWeb3 Foundation](https://github.com/Open-Web3-Foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
 * [Setheum-Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
 
@@ -119,16 +117,11 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
 * [DAGESTAN](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
 * [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [STEEL](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer, giving birth to Subchains.
+* [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer, giving birth to Subchains.
 
 ### Core Projects (Blockchains)
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
-* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Subchain, a Layer-2 Blockchain Network.
-
-### Core Projects ( Projects on the Setheum Network)
-* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of Protocols.
-* [OpenWeb3 AI](https://github.com/openweb3AI): Setheum's AI Computation Suite.
-* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Layer-2 Blockchain Network.
+* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Optimized Subchain, a Layer-2 Blockchain on the Setheum Network.
 
 ### Smart Contracts (A-Z)
 
