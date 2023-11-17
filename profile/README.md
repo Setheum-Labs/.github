@@ -24,12 +24,11 @@ As-Salam Alaikum!!
 **Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**. 
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
 
-### Organisations in Setheum Labs
+### Organisations involved with Setheum Labs
 
-* [Khalifa](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Optimised Blockchain. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
-* [OpenWeb3 Foundation](https://github.com/openweb3-foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
-* [Setheum Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
-* [Slixon Technologies](https://github.com/Slixon-Technologies): "THINK IT? MAKE IT!" Powering Web3 Infrastructure. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs) & [@Khalifa-Blockchain](https://github.com/Khalifa-Blockchain). Supporting the #Setheum Ecosystem.
+* [OpenWeb3 Foundation](https://github.com/openweb3-foundation): Developing and Powering Open Web3 Internet Solutions. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
+* [Setheum Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. Owned equally(50-50) By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
+* [Slixon Technologies](https://github.com/Slixon-Technologies): "THINK IT? MAKE IT!" Powering Web3 Infrastructure. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -58,7 +57,7 @@ Check out [Setheum Commons](https://github.com/Setheum-Labs/setheum-commons) for
 and other resources used in Setheum Labs.
 
 ## 🍿 Fun facts
-We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/wiki/Lanzhou_beef_noodle_soup).
+We started from solo stealth mode, now we'r here.
 
 ## 🧰 Languages and Tools:
 <p>
@@ -93,9 +92,6 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 <p align="center">  
 🔭 Currently working on the Setheum Network and Setheum Ecosystem...
 </p>
-
-<p align="center">  
-🌱 Love learning Languages... love People... environmentally friendly... love Cats and Horses...
 
 <p align="center">  
 👯 Happy to collaborate on Web3, IoT and DeFi Building Blocks... especially Ethical Web3 in the Setheum Ecosystem...
