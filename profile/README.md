@@ -26,9 +26,9 @@ The Labs for building and maintaining our blockchain projects and our involvment
 
 ### Organisations involved with Setheum Labs
 
-* [OpenWeb3 Foundation](https://github.com/openweb3-foundation): Developing and Powering Open Web3 Internet Solutions. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
-* [Setheum Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. Owned equally(50-50) By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
-* [Slixon Technologies](https://github.com/Slixon-Technologies): "THINK IT? MAKE IT!" Powering Web3 Infrastructure. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
+* **[OpenWeb3 Foundation](https://github.com/openweb3-foundation):** Developing and Powering Open Web3 Internet Solutions. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
+* **[Setheum Labs](https://github.com/Setheum-Labs):** Blockchain R&D Labs developing the Setheum Ecosystem. Owned equally(50-50) By [@Slixon-Technologies](https://github.com/Slixon-Technologies) and [@openweb3-foundation](https://github.com/openweb3-foundation)
+* **[Slixon Technologies](https://github.com/Slixon-Technologies):** Powering The New Internet. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -48,99 +48,40 @@ The Labs for building and maintaining our blockchain projects and our involvment
 
 <br />
  
-## 🧙 Contribution guidelines
-Check the [Code of Cunduct](https://github.com/Setheum-Labs/.github/blob/main/CODE_OF_CONDUCT.md) and 
-[Contribution Guideline](https://github.com/Setheum-Labs/.github/blob/main/CONTRIBUTING.md) on how the community can get involved?
-
 ## 👩‍💻 Useful resources
-Check out [Setheum Commons](https://github.com/Setheum-Labs/setheum-commons) for common libraries, repos 
-and other resources used in Setheum Labs.
 
-## 🍿 Fun facts
-We started from solo stealth mode, now we'r here.
+### Core Projects (A-Z)
+* [EthicalDeFi](https://github.com/Setheum-Labs/EthicalDeFi): Powering DeFi on Ethical Wheels. Setheum's Ethical DeFi Suite.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
+* [SetheumJS](https://github.com/Setheum-Labs/setheum.js): Setheum's Javascript Library, SDKs & APIs.
 
-## 🧰 Languages and Tools:
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/logo/web-assembly-logo.png" alt="WASM" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
- 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
- 
+### Links (A-Z)
+* [Setheum Website](https://setheum.xyz): Setheum Network Project Website.
+* [SetheumJS Website](https://setheum.js.org): Setheum.JS Project Website.
+* [Setheum LinkTree Website](https://linktr.ee/setheum): Setheum's LinkTree to find website links, socials and community Links.
+* [Setheum Wiki Website](https://wiki.setheum.xyz): Docs for Setheum.
+
+### Other Resources (A-Z)
+* [Code of Cunduct](https://github.com/Setheum-Labs/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contribution Guideline](https://github.com/Setheum-Labs/.github/blob/main/CONTRIBUTING.md)
+* [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
+* [Setheum Commons](https://github.com/Setheum-Labs/setheum-commons): A collection of common tools, libraries, repos, SDKs, 
+and other resources for use in Setheum Labs.
+* [Whitepapers Repo](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects.
+* [Wiki Repo](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum.
+
 <p align="center">  
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2419998257285703812/AA29C335462FF165313CD8F167496E0C869028FA/" width="1200">
 </p>
 
-
 <p align="center">  
-🔭 Currently working on the Setheum Network and Setheum Ecosystem...
+🔭 Working on Setheum and its Ecosystem...
 </p>
 
 <p align="center">  
-👯 Happy to collaborate on Web3, IoT and DeFi Building Blocks... especially Ethical Web3 in the Setheum Ecosystem...
+🔭 You are welcome to contribute... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
-<p align="center">  
-🤔 You are welcome to contribute... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</p>
-
-<p align="center">  
-💬 Ask us about Setheum... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</p>
-
-
-## Setheum's Projects
-
-A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
-
-### Core Projects (Consensus Protocols)
-
-* [DAGESTAN](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
-* [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer, giving birth to Subchains.
-
-### Core Projects (Blockchains)
-* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
-* [Khalifa Blockchain](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Optimized Subchain, a Layer-2 Blockchain on the Setheum Network.
-
-### Smart Contracts (A-Z)
-
-* [Setheum's Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
-
-### Libraries 'n Frameworks (A-Z)
-
-* [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
-
-## Links 'n Websites (A-Z)
-
-* [Setheum](https://setheum.xyz): Setheum Network Project Website.
-* [SetheumJS](https://setheum.js.org): Setheum.JS Project Website.
-* [Setheum LinkTree](https://linktr.ee/setheum): Setheum's LinkTree to find website links, socials and community Links.
-* [Wiki](https://wiki.setheum.xyz): Docs for Setheum.
-
-## Other Resources
-
-### Repos (A-Z)
-
-* [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
-* [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io): Setheum Network Project Website.based runtimes.
-* [Setheum Faucet Bot](https://github.com/Setheum-Labs/setm-faucet-bot): This is a nodejs bot for Substrate based faucets - Setheum.
-* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects.
-* [Wiki](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum.
+## 🧙 Contribution guidelines
+In case you haven't already, check the [Code of Cunduct](https://github.com/Setheum-Labs/.github/blob/main/CODE_OF_CONDUCT.md) and 
+[Contribution Guideline](https://github.com/Setheum-Labs/.github/blob/main/CONTRIBUTING.md) on how the community can get involved?
