@@ -20,22 +20,16 @@ As-Salam Alaikum!!
   <img src="https://github.com/Setheum-Labs/.github/blob/main/profile/SetheumLabsLabel.jpg" style="width:1300px" />
 </p>
 
-# I ❤️ Setheum Labs
-**Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**. 
-The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
+# We ❤️ Setheum
 
-### Organisations involved with Setheum Labs
-
-* **[OpenWeb3 Foundation](https://github.com/openweb3-foundation):** Developing and Powering Open Web3 Internet Solutions. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
-* **[Setheum Labs](https://github.com/Setheum-Labs):** Blockchain R&D Labs developing the Setheum Ecosystem. Owned equally(50-50) By [@Slixon-Technologies](https://github.com/Slixon-Technologies) and [@openweb3-foundation](https://github.com/openweb3-foundation)
-* **[Slixon Technologies](https://github.com/Slixon-Technologies):** Powering The New Internet. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs). Supporting the #Setheum Ecosystem.
+The Org. for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, etc. most especially in the *Setheum Ecosystem*.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 </p>
 
-## We ❤️ Web3 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## We ❤️ Open Web3 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
