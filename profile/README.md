@@ -45,9 +45,9 @@ The Org. for building and maintaining our blockchain projects and our involvment
 ## 👩‍💻 Useful resources
 
 ### Core Projects (A-Z)
-* [EthicalDeFi](https://github.com/Setheum-Labs/EthicalDeFi): Powering DeFi on Ethical Wheels. Setheum's Ethical DeFi Suite.
-* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
-* [SetheumJS](https://github.com/Setheum-Labs/setheum.js): Setheum's Javascript Library, SDKs & APIs.
+* [EthicalDeFi](https://github.com/Setheum-Labs/Setheum): Powering DeFi on Ethical Wheels. Setheum's Ethical DeFi Suite.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions.
+* [SetheumJS](https://github.com/setheum-js): Setheum's Javascript Library, SDKs & APIs.
 
 ### Links (A-Z)
 * [Setheum Website](https://setheum.xyz): Setheum Network Project Website.
